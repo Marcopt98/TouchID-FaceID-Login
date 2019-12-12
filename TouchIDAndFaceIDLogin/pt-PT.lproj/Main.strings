@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Face & Touch ID Login"; ObjectID = "3N3-xR-Uvu"; */
+"3N3-xR-Uvu.text" = "Face & Touch ID Login";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "6Fr-tl-mwQ"; */
+"6Fr-tl-mwQ.text" = "Username";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "6NS-Ab-mXg"; */
+"6NS-Ab-mXg.text" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "A1M-FP-Orw"; */
+"A1M-FP-Orw.normalTitle" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Reset Data"; ObjectID = "Dl6-8A-b77"; */
+"Dl6-8A-b77.normalTitle" = "Reset Data";
